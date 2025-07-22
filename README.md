@@ -1,3 +1,4 @@
-# CAG-Net
+# HAT-Match: Graph Transformer with Hybrid Attention for Two-View Correspondence Pruning
 
-coming soon
+## ECAI-2025
+
