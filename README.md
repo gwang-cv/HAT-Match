@@ -6,7 +6,7 @@
 
 **ECAI 2025**
 
-![](overview.png)
+![](img/overview.png)
 
 ## Requirements
 
@@ -48,7 +48,7 @@ python main.py --run_mode=test --data_te=sun3d-sift-2000-test.hdf5  --model_path
 
 ## Results
 
-![](res.png)
+![](img/res.png)
 
 ## Acknowledgement
 
