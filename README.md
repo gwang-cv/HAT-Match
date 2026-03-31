@@ -50,7 +50,7 @@ python main.py --run_mode=test --data_te=sun3d-sift-2000-test.hdf5  --model_path
 
 ![](img/res.png)
 
-**-/-  without/with RANSAC**
+**-/- : without/with RANSAC**
 
 ## Acknowledgement
 
