@@ -2,7 +2,9 @@
 
 
 
-### HAT-Match: Graph Transformer with Hybrid Attention for Two-View Correspondence Pruning [PDF link](https://ebooks.iospress.nl/volumearticle/75746)
+### HAT-Match: Graph Transformer with Hybrid Attention for Two-View Correspondence Pruning 
+
+[PDF link](https://ebooks.iospress.nl/volumearticle/75746)
 
 
 **ECAI 2025**
